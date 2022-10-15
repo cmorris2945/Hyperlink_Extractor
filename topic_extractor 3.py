@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Nov 19 10:46:18 2019
-@author: David Zimmerman
+@author: Chris Morris
 """
 from . import paths
 import os
